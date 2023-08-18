@@ -1,0 +1,5 @@
+{{#user}}
+Name: Anwesha 
+Skills: HTML, CSS, JS, AngularJS, Angular, php , MySQL, Bootstrap, JQery
+Email: anwesha644@gmail.com
+{{/user}}
